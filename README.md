@@ -1,6 +1,6 @@
 ## Hi, I'm Gisella Castillo
 
-I am an incoming third-year student at Saint Peter's University, studying in an accelerated BS (Computer Science - Cybersecurity) to MB (Cybersecurity) Program. <br/>
+I am a third-year student at Saint Peter's University, studying in an accelerated BS (Computer Science - Cybersecurity) to MB (Cybersecurity) Program. <br/>
 
 - 🔐 I’m passionate about creating a safer digital future, especially as emerging technologies introduce new security challenges. <br/>
 - 💻 In addition to cybersecurity, I enjoy developing software solutions to everyday problems. <br/> 
