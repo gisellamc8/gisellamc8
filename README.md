@@ -1,14 +1,12 @@
 ## Hi, I'm Gisella Castillo
 
-I am a third-year student at Saint Peter's University, studying in an accelerated BS (Computer Science - Cybersecurity) to MB (Cybersecurity) Program. <br/>
+I am a fourth-year student at Saint Peter's University, studying in an accelerated BS (Computer Science - Cybersecurity) to MB (Cybersecurity) Program. <br/>
 
 - 🔐 I’m passionate about creating a safer digital future, especially as emerging technologies introduce new security challenges. <br/>
 - 💻 In addition to cybersecurity, I enjoy developing software solutions to everyday problems. <br/> 
-- 🎨 Lastly, I have a strong interest in front-end development, where I can create user-friendly designs and graphics. <br/>
-- 🌐 Although my major focuses on cybersecurity, I often indulge myself in projects that allow me to further my skills as a full-stack developer. <br/>
 
 Current Project: <br/>
-- I am currently working on a Job Search Aggregator Website. <br/>
+- I am currently working on a GRC Automation Tool. <br/>
 
 📧 Feel free to reach out to me at: gcastillo1@saintpeters.edu 
 
